@@ -9,7 +9,25 @@ add_executable(car_rental
         include/model/Client.h
         src/model/Client.cpp
         src/model/Address.cpp
-        include/model/Address.h)
+        include/model/Address.h
+        src/model/Rent.cpp
+        src/model/Vehicle.cpp
+        include/model/Rent.h
+        include/model/Vehicle.h
+)
+
+set(BOOST_ROOT "C:/boost_1_81_0")
+
+find_package(Boost 1.81.0)
+
+if(NOT Boost_FOUND)
+    message(FATAL_ERROR "Could not find boost!")
+endif()
+
+message(STATUS "Boost_INCLUDE_DIRS: ${Boost_INCLUDE_DIRS}")
+message(STATUS "Boost_LIBRARIES: ${Boost_LIBRARIES}")
+message(STATUS "Boost_VERSION: ${Boost_VERSION}")
+
 
 #set(SOURCE_FILES
 #        main.cpp

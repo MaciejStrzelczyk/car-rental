@@ -1,10 +1,14 @@
 # ninja log v5
-4	734	6951590091769689	CMakeFiles/car_rental.dir/main.cpp.obj	6e4e19a1734e3907
-8	663	6951570017719702	CMakeFiles/car_rental.dir/src/model/Address.cpp.obj	a144cf3f834879d3
-734	827	6951590092673164	car_rental.exe	6954336789e0d71b
-1	144	6952138497592915	build.ninja	2e118424845e1fd6
-3	667	6951585398627049	CMakeFiles/car_rental.dir/src/model/Client.cpp.obj	e5b44bd4645ce9f5
-0	1076	6952138572705350	CMakeFiles/car_rental.dir/main.cpp.obj	a436731bd8cb253e
-12	1129	6952138573230848	CMakeFiles/car_rental.dir/src/model/Address.cpp.obj	ca845aa994e7b50
-6	1170	6952138573640791	CMakeFiles/car_rental.dir/src/model/Client.cpp.obj	60cd8d75c2cd7202
-1171	1460	6952138576496924	car_rental.exe	6954336789e0d71b
+21	760	6979942025946106	CMakeFiles/car_rental.dir/src/model/Address.cpp.obj	f8390fb3006d6314
+9	562	6979946654950457	CMakeFiles/car_rental.dir/main.cpp.obj	150e574074bea9c0
+3502	3809	6979949112394554	car_rental.exe	2395b1adee11ef8b
+9	786	6979942026226122	CMakeFiles/car_rental.dir/src/model/Client.cpp.obj	3dc16da568b9573d
+2	312	7208425646489776	build.ninja	2e118424845e1fd6
+17	759	6979942025936117	CMakeFiles/car_rental.dir/src/model/Vehicle.cpp.obj	4d136ea86900797d
+10	3500	6979949109296932	CMakeFiles/car_rental.dir/src/model/Rent.cpp.obj	2cb764259cb1d642
+20	747	7208425902769464	CMakeFiles/car_rental.dir/main.cpp.obj	286d91b538e5c180
+43	889	7208425904176941	CMakeFiles/car_rental.dir/src/model/Vehicle.cpp.obj	c890c5b02ba949e2
+31	913	7208425904414755	CMakeFiles/car_rental.dir/src/model/Address.cpp.obj	85adca5d0ba816c0
+26	933	7208425904630365	CMakeFiles/car_rental.dir/src/model/Client.cpp.obj	26f81b13bf73a72d
+37	4121	7208425936423117	CMakeFiles/car_rental.dir/src/model/Rent.cpp.obj	5d8ff5d407e34097
+4122	4506	7208425940319201	car_rental.exe	2395b1adee11ef8b

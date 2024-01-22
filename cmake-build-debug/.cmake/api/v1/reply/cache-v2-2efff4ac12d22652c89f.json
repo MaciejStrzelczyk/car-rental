@@ -22,44 +22,16 @@
 			"properties" : 
 			[
 				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
 					"name" : "HELPSTRING",
 					"value" : "Path to a file."
 				}
 			],
 			"type" : "PATH",
-			"value" : "Boost_INCLUDE_DIR-NOTFOUND"
-		},
-		{
-			"name" : "Boost_UNIT_TEST_FRAMEWORK_LIBRARY_DEBUG",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Boost unit_test_framework library (debug)"
-				}
-			],
-			"type" : "FILEPATH",
-			"value" : "Boost_UNIT_TEST_FRAMEWORK_LIBRARY_DEBUG-NOTFOUND"
-		},
-		{
-			"name" : "Boost_UNIT_TEST_FRAMEWORK_LIBRARY_RELEASE",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Boost unit_test_framework library (release)"
-				}
-			],
-			"type" : "FILEPATH",
-			"value" : "Boost_UNIT_TEST_FRAMEWORK_LIBRARY_RELEASE-NOTFOUND"
+			"value" : "C:/boost_1_81_0"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -115,7 +87,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/mstrz/Desktop/Exercise/car-rental/cmake-build-debug"
+			"value" : "c:/Users/mstrz/Desktop/cpp_zadania/Exercise/car-rental/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -683,7 +655,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/mstrz/Desktop/Exercise/car-rental"
+			"value" : "C:/Users/mstrz/Desktop/cpp_zadania/Exercise/car-rental"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -695,7 +667,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/car_rental"
+			"value" : "C:/Program Files (x86)/car-rental"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1290,6 +1262,78 @@
 			"value" : "FALSE"
 		},
 		{
+			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_Boost",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Details about finding Boost"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "[C:/boost_1_81_0][c ][v1.81.0(1.81.0)]"
+		},
+		{
+			"name" : "_BOOST_ROOT_LAST",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Last used BOOST_ROOT value."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/boost_1_81_0"
+		},
+		{
+			"name" : "_Boost_COMPONENTS_SEARCHED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Components requested for this build tree."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "_Boost_INCLUDE_DIR_LAST",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Last used Boost_INCLUDE_DIR value."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/boost_1_81_0"
+		},
+		{
+			"name" : "_Boost_NAMESPACE_LAST",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Last used Boost_NAMESPACE value."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "boost"
+		},
+		{
+			"name" : "_Boost_USE_MULTITHREADED_LAST",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Last used Boost_USE_MULTITHREADED value."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
+		},
+		{
 			"name" : "car-rental_BINARY_DIR",
 			"properties" : 
 			[
@@ -1299,7 +1343,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/mstrz/Desktop/Exercise/car-rental/cmake-build-debug"
+			"value" : "C:/Users/mstrz/Desktop/cpp_zadania/Exercise/car-rental/cmake-build-debug"
 		},
 		{
 			"name" : "car-rental_IS_TOP_LEVEL",
@@ -1323,43 +1367,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/mstrz/Desktop/Exercise/car-rental"
-		},
-		{
-			"name" : "car_rental_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/mstrz/Desktop/Exercise/car-rental/cmake-build-debug"
-		},
-		{
-			"name" : "car_rental_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "car_rental_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/mstrz/Desktop/Exercise/car-rental"
+			"value" : "C:/Users/mstrz/Desktop/cpp_zadania/Exercise/car-rental"
 		}
 	],
 	"kind" : "cache",

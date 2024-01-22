@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "car_rental::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-car_rental-Debug-4b8e28c930a52968bb51.json",
+					"jsonFile" : "target-car_rental-Debug-85dbcf79c5193525dc6e.json",
 					"name" : "car_rental",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/mstrz/Desktop/Exercise/car-rental/cmake-build-debug",
-		"source" : "C:/Users/mstrz/Desktop/Exercise/car-rental"
+		"build" : "C:/Users/mstrz/Desktop/cpp_zadania/Exercise/car-rental/cmake-build-debug",
+		"source" : "C:/Users/mstrz/Desktop/cpp_zadania/Exercise/car-rental"
 	},
 	"version" : 
 	{
